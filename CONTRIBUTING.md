@@ -32,5 +32,16 @@ Thank you for considering contributing to this project! 🎉
 * Update documentation if needed
 * Be responsive to feedback
 
+## Contributions
+
+All contributions are welcome, including:
+
+* Bug reports
+* Bug fixes
+* Documentation improvements
+* Enhancements
+* Ideas and suggestions
+
+
 Thank you for contributing! 🚀
 
